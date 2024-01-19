@@ -134,9 +134,9 @@ In this step you must create an account in CDS climate copernicus to download th
 The .cdsapirc file contains the following information:
 
 ```
-	url: https://cds.climate.copernicus.eu/api/v2
-	key: <UID>:<API>
-	verify: 0
+url: https://cds.climate.copernicus.eu/api/v2
+key: <UID>:<API>
+verify: 0
 ```
 
 change `<UID>` and `<API>` to your respective credentials in your account. And accept the terms and conditions of the CDS website.
