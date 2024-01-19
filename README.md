@@ -164,6 +164,8 @@ https://jupyter.org/install
 
 https://cds.climate.copernicus.eu/
 
+https://github.com/ecmwf/cdsapi
+
 https://github.com/danpower101/crspy
 
 https://github.com/danpower101/crspy_example
