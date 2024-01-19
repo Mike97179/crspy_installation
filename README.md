@@ -139,7 +139,7 @@ The .cdsapirc file contains the following information:
 	verify: 0
 ```
 
-change <UID> and <API> to your respective credentials in your account. And accept the terms and conditions of the CDS website.
+change `<UID>` and `<API>` to your respective credentials in your account. And accept the terms and conditions of the CDS website.
 
 The next change to make is to add a command line to the python script called additional_metadata.py. This file is located in `(my-venv-name) me@mydevice:~/.venvs/my-venv-name/lib/python3.9/site-packages/crspy$`
 
